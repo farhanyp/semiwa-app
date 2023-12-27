@@ -3,7 +3,6 @@ import Button from '../Button';
 import { useNavigate } from 'react-router-dom';
 import { Image, Spinner } from 'react-bootstrap';
 import moment from 'moment';
-import { config } from '../../configs';
 
 function TbodyWithAction({
   data,

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Card, CardBody, CardTitle, Container } from 'react-bootstrap';
+import { Card, Container } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.css';
 import SAlert from '../../components/Alert';
 import { useNavigate } from 'react-router-dom';

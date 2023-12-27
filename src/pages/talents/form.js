@@ -2,7 +2,6 @@ import React from 'react';
 import { Figure, Form } from 'react-bootstrap';
 import Button from '../../components/Button';
 import TextInputWithLabel from '../../components/TextInputWithLabel';
-import { config } from '../../configs';
 
 export default function SpeakersForm({
   handleSubmit,

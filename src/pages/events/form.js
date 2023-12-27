@@ -11,7 +11,6 @@ import {
 import Button from '../../components/Button';
 import TextInputWithLabel from '../../components/TextInputWithLabel';
 import SelectBox from '../../components/SelectBox';
-import { config } from '../../configs';
 
 export default function EventsForm({
   handleSubmit,
