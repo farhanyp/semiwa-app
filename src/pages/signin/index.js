@@ -13,7 +13,7 @@ function PageSignin() {
   const dispatch = useDispatch()
 
   const [form, setForm] = useState({
-    email: 'Organizer1@gmail',
+    email: 'Organizer1@gmail.com',
     password: 'rahasia'
   })
 
